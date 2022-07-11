@@ -208,7 +208,7 @@ const bigProjects = {
     {
       image: require("./assets/images/planahead.png"),
       projectName: "Plan Ahead",
-      projectDesc: "Single Page App designed to help teachers, young students and those with learning disabilities keep track of their assignments and due dates. Utilizes a back-end Server API built with Express Node.js and PostgreSQL, and a front-end interface built with React.js.",
+      projectDesc: "Single Page App designed to help teachers, young students and those with learning disabilities keep track of their assignments and due dates. A work in progress project that aims to implement in a local middle school in Fall 2022.",
       footerLink: [
         {
           name: "Visit Website",
@@ -219,8 +219,8 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/lightbulb.jpeg"),
-      projectName: "Any cool ideas?",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Got project ideas?",
+      projectDesc: "I'm looking for next project to learn and participate!",
       footerLink: [
         {
           name: "Contact Me",
@@ -350,8 +350,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "I'm always open for collaborations. Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+1-647-627-6504",
-  email_address: "07yuri@gmail.com"
+  // number: "",
+  email_address: "07yuri at gmail dot com"
 };
 
 // Twitter Section
